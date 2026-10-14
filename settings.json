@@ -1,0 +1,30 @@
+{
+    "workbench.colorTheme": "Visual Studio Dark - C++",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.minimap.enabled": false,
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "files.autoSave": "afterDelay",
+    "liveServer.settings.donotVerifyTags": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "github.copilot.enable": {
+        "*": false
+    },
+    "chat.viewSessions.orientation": "stacked",
+    "workbench.editor.empty.hint": "hidden",
+    "python.defaultInterpreterPath": "C:\\Users\\RAHUL\\AppData\\Local\\Python\\pythoncore-3.14-64\\python.exe",
+    "editor.inlineSuggest.showToolbar": "always",
+    "code-runner.ignoreSelection": true,
+    "code-runner.executorMap": {
+        "python": "\"C:\\Users\\RAHUL\\AppData\\Local\\Python\\pythoncore-3.14-64\\python.exe\" c:/Users/RAHUL/Downloads/mlops-batch-pipeline/mlops/run.py --input \"c:/Users/RAHUL/Downloads/mlops-batch-pipeline/mlops/data.csv\" --config \"c:/Users/RAHUL/Downloads/mlops-batch-pipeline/mlops/config.yaml\" --output \"c:/Users/RAHUL/Downloads/mlops-batch-pipeline/data/output.csv\" --log-file \"c:/Users/RAHUL/Downloads/mlops-batch-pipeline/pipeline.log\""
+    }
+}
